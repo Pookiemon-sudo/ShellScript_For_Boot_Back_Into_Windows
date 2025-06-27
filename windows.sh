@@ -1,0 +1,2 @@
+sudo efibootmgr -n **
+reboot
