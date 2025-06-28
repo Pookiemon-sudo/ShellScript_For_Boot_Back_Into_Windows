@@ -90,3 +90,4 @@ Happy dual-booting!
 You can further customize this script or create similar ones for other OSes or boot targets!
 
 *If you found this helpful, star ⭐ the repo and share with fellow dual-booters!*
+|| all the best ||
